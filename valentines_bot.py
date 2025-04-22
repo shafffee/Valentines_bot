@@ -5,7 +5,7 @@ from pathlib import Path
 import logging
 import time
 
-token = '7440210952:AAFwA4ZDp1RWTynFF1aXQHBHZOZxKr2cEmQ'
+token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 first_options = ['🎩 Официальный', '😊 Дружеский','😂 Забавный']
 second_options = ['🏢 О работе', '💊 Фармацевтика', '💡 Просто хорошее настроение']
 
